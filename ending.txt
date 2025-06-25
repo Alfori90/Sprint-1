@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 After weeks of trials, riddles, and strange forest magic, Elara finally reached the heart of the Whispering Woods—a clearing bathed in golden light where the ancient Tree of Echoes stood. Guided by the final glow of her enchanted map, she placed the silver-leaf token into the hollow of the tree. The earth trembled softly, and a pulse of warmth rippled outward, lifting the mist and awakening the forest.
 
 The once-fading woods bloomed anew—crystal-clear streams flowed again, flowers burst into color, and fruit-laden trees bowed gently in the breeze. The map’s final lines shimmered and vanished, its purpose fulfilled. Elara returned to her village not as the curious girl who had entered the forest, but as a legend-bearer, greeted with joy and songs.
 
 From that day forward, the Whispering Woods were no longer feared, but celebrated. The land flourished, and Elara—keeper of the forest’s secret—watched over it all with Shadow by her side and wonder still in her heart.
+=======
+After weeks of trials, riddles, and strange forest magic, Elara finally reached the heart of the Whispering Woods—a clearing bathed in an eerie silver glow, where the ancient Tree of Echoes stood, old and cracked with age. Guided by the final light of her enchanted map, she placed the silver-leaf token into the hollow of the tree. The forest held its breath.
+
+The ground trembled, but instead of warmth, a chill spread outward. The tree groaned—a sound like distant thunder—and began to weep a dark, sap-like mist. The map in her hand turned to ash. Too late, Elara understood: the map had not led her to heal the forest, but to awaken something forgotten for a reason.
+
+A voice, deep and mournful, whispered through the clearing, “Thank you, child, for setting me free.” Shadows spilled from the roots, and though Elara fought to resist, her form faded into the light like mist at sunrise—her sacrifice sealing away the ancient force once more.
+
+She never returned to the village. But in the deepest part of the woods, where the mist now glows faintly gold, wildflowers grow that bear her name. The forest thrives quietly, beautifully—but always, it remembers.
+>>>>>>> Task10
